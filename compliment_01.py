@@ -1,8 +1,8 @@
 # FILE NAME - compliment_01.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Paige LaBarr
+# DATE: March 1, 2026
+# BRIEF DESCRIPTION: Give the user a compliment if they say yes.
 
 
 
@@ -15,18 +15,13 @@
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
 
-
-
-
-
-
-
-
+response = input("Would you like a compliment? ")
+if response == "yes":
+    print("You have wonderful eyes.")
+print("Thank you for playing.")
 
 
 ########### END YER CODE ABOVE THIS LINE ###########
-
-    
 
 
 
