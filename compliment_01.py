@@ -18,7 +18,7 @@
 response = input("Would you like a compliment? ")
 if response == "yes":
     print("You have wonderful eyes.")
-print("Thank you for playing.")
+print("thank you for playing")
 
 
 ########### END YER CODE ABOVE THIS LINE ###########
